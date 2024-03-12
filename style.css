@@ -1,0 +1,11 @@
+p[href]{
+    color: red;
+}
+[target="_blank"]{
+    color:blue;
+    font-size: 100%;
+}
+
+[title~="hoc.cc"]{
+    color:red;
+}
